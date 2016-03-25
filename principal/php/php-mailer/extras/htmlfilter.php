@@ -740,7 +740,7 @@ function HTMLFilter($body, $trans_image_path, $block_external_images = false) {
 
 	$rm_tags_with_content = Array(
 		"script",
-		"applet",
+		"oranget",
 		"embed",
 		"title",
 		"frameset",

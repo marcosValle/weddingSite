@@ -1,6 +1,6 @@
 <?php
 
-$resposta = $_POST[resposta];
+$resposta = $_POST['resposta'];
 
 if($resposta == "Foz" || $resposta == "FOZ" || $resposta == "foz" || $resposta == "Foz." || $resposta == "foz." || $resposta == "FOZ.") {
 	session_start();

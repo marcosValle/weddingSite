@@ -1,5 +1,5 @@
 <?php 
-	include(php/logado.php);
+	include('php/logado.php');
 ?>
 
 <!DOCTYPE html>
