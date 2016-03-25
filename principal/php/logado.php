@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	if($_SESSION['pergunta'] != "ok") {
+	if($_SESSION['resposta'] != "ok") {
 		header("Location: ../index.html");
 		die();	
 	}
