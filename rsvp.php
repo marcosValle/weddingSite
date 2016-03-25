@@ -137,34 +137,88 @@
 			</header>
 			<!-- /header -->
 			<!-- content -->
-			<div class="page-content">				
+			<div class="page-content">
+							
 				<div class="row">
 					<div class="col-xs-10 col-xs-offset-1">
-						<!-- Title 1 -->
-						<h1 class="title1 title1-border">Lista de presentes</h1>
-						<!-- /Title 1 -->
-						<div class="page-intro">	
-
-						</div>
-						<div class="gift-list">
-							<div class="row">
-								<!-- item -->
-								<div class="gift-item col-sm-12" align="center">
-									<a href="http://www.tokstok.com.br"><img src="img/tokstok.jpeg" alt="tokstok"></a>
-								</div>
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
-">
-<input type="image" src="https://www.paypalobjects.com/pt_BR/i/btn/btn_buynow_LG.gif" border="0" name="submit" alt="PayPal - A maneira fácil e segura de enviar pagamentos online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/pt_BR/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-								<!-- /item -->
+						<!-- page title -->
+						<h2 class="title1 couple-title1 title1-border">Rsvp</h2>	
+						<!-- /page title -->
+						<div class="row">
+							<!-- RSVP -->
+							<div class="col-sm-4 rsvp-text">
+								<h3 class="title4">Por favor preencha o nosso formulário RSVP</h3>
+								<p>Pedimos que responda até 16 de junho de 2016. Esperamos poder contar com você na nossa cerimônia!</p>								
 							</div>
+							<div class="col-sm-8">
+
+								<!-- Contact Form -->
+								<form id="contactForm" action="php/contact-form.php" method="POST"> 
+									<!-- Form Field -->        
+						            <div class="form-group">
+						            	<label for="name">Seu nome</label>
+						            	<input type="text" id="name" name="name" class="form-control required" placeholder="Nome"/>
+						            </div>   
+						            <!-- /Form Field -->   
+						            <div class="row">
+										<div class="col-md-6">
+											<!-- item -->            
+											<div class="form-group">
+												<label for="email">Seu email</label>
+											 	 <input type="email" id="email" name="email" class="form-control required" placeholder="Email"/>
+											</div>    
+											<!-- /item -->
+										</div>
+										<div class="col-md-6">
+											<!-- item -->            
+											<div class="form-group">
+												<label for="guests">Quantos convidados?</label>
+											 	<input type="text" class="form-control" name="guests" id="guests" placeholder="Número de convidados" required>
+											</div>    
+											<!-- /item -->
+										</div>
+									</div>  
+						           <!-- item -->            
+									<div class="form-group" style="display: none;">
+										<label for="attending">Eu vou participar:</label>
+									 	<select name="attending" id="attending" class="form-control">
+									 		<option value="All Events" selected="selected">Todos os eventos</option>
+									 		<option value="The Ceremony">Somente da cerimônia</option>
+									 		<option value="The Party">Somente da festa</option>
+									 	</select>
+									</div>    
+									<!-- /item -->
+						            <!-- Form Field -->                 
+						            <div class="form-group"> 
+						            	<label for="message">Mensagem (opcional):</label>
+						              	<textarea class="form-control required" id="message" name="message" placeholder="Mensagem"></textarea>
+						            </div>    
+						            <!-- /Form Field -->           
+						            <!-- Form Field -->  
+						            <div class="form-group form-send">
+						            	<button type="submit" value="" class="btn btn-1c"><span class="fa fa-paper-plane"> &nbsp;</span>Enviar!</button>
+						            	<!--<input type="submit" value="Send" class="btn btn-1c"/>-->
+						            </div>   
+						            <!-- /Form Field -->                  
+					          	</form>	
+					          	<!-- / Contact form -->
+					          	<!-- Form - Success Message -->	
+					          	<div id="contactSuccess" class="contact-feedback">Sua mensagem foi enviada!!</div>		
+								<!-- /Form - Sucess Message -->
+								<!-- Form - Error Message -->
+								<div id="contactError" class="contact-feedback">Erro</div>
+								<!-- /form - Error Message -->
+								
+								<div class="form">
+								</div>
+								<div class="wait">Enviando...</div>
+				                <div class="error">Ops, algo deu errado...</div>
+				                <div class="success">Sua mensagem foi enviada!</div>
+							</div>
+							<!-- /RSVP -->
 						</div>
 					</div>
+					
 				</div>
 			</div>
 			<!-- /content -->
