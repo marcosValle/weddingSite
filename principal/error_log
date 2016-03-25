@@ -1,0 +1,60 @@
+[29-Feb-2016 05:27:03] PHP Warning:  Division by zero in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:27:03] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:27:03] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:27:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:27:26] PHP Warning:  Division by zero in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 05:27:26] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 05:27:26] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 05:27:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 05:27:40] PHP Warning:  Division by zero in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:27:40] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:27:40] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:27:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:28:17] PHP Warning:  Division by zero in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:28:17] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:28:17] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 05:28:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 15:50:18] PHP Warning:  Division by zero in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 15:50:18] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 15:50:18] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 15:50:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/index.php on line 2
+[29-Feb-2016 15:50:26] PHP Warning:  Division by zero in /home/debor035/public_html/principal/gallery.php on line 2
+[29-Feb-2016 15:50:26] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/gallery.php on line 2
+[29-Feb-2016 15:50:26] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/gallery.php on line 2
+[29-Feb-2016 15:50:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/gallery.php on line 2
+[29-Feb-2016 15:53:41] PHP Warning:  Division by zero in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 15:53:41] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 15:53:41] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 15:53:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 15:58:54] PHP Warning:  Division by zero in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 15:58:55] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 15:58:55] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/about.php on line 2
+[29-Feb-2016 15:58:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/about.php on line 2
+[01-Mar-2016 13:50:52] PHP Warning:  Division by zero in /home/debor035/public_html/principal/index.php on line 2
+[01-Mar-2016 13:50:52] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[01-Mar-2016 13:50:52] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[01-Mar-2016 13:50:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/index.php on line 2
+[01-Mar-2016 13:53:12] PHP Warning:  Division by zero in /home/debor035/public_html/principal/page-registry.php on line 2
+[01-Mar-2016 13:53:12] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/page-registry.php on line 2
+[01-Mar-2016 13:53:12] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/page-registry.php on line 2
+[01-Mar-2016 13:53:12] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/page-registry.php on line 2
+[04-Mar-2016 20:03:08] PHP Warning:  Division by zero in /home/debor035/public_html/principal/index.php on line 2
+[04-Mar-2016 20:03:08] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[04-Mar-2016 20:03:08] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[04-Mar-2016 20:03:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/index.php on line 2
+[21-Mar-2016 23:25:10] PHP Warning:  Division by zero in /home/debor035/public_html/principal/index.php on line 2
+[21-Mar-2016 23:25:10] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[21-Mar-2016 23:25:10] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[21-Mar-2016 23:25:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/index.php on line 2
+[24-Mar-2016 15:10:53] PHP Warning:  Division by zero in /home/debor035/public_html/principal/index.php on line 2
+[24-Mar-2016 15:10:53] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[24-Mar-2016 15:10:53] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/index.php on line 2
+[24-Mar-2016 15:10:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/index.php on line 2
+[24-Mar-2016 15:11:07] PHP Warning:  Division by zero in /home/debor035/public_html/principal/about.php on line 2
+[24-Mar-2016 15:11:07] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/about.php on line 2
+[24-Mar-2016 15:11:07] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/about.php on line 2
+[24-Mar-2016 15:11:07] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/about.php on line 2
+[24-Mar-2016 15:11:34] PHP Warning:  Division by zero in /home/debor035/public_html/principal/rsvp.php on line 2
+[24-Mar-2016 15:11:34] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/rsvp.php on line 2
+[24-Mar-2016 15:11:34] PHP Warning:  include(php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/debor035/public_html/principal/rsvp.php on line 2
+[24-Mar-2016 15:11:34] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/debor035/public_html/principal/rsvp.php on line 2
