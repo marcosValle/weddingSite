@@ -2,7 +2,7 @@
 
 $resposta = $_POST['resposta'];
 
-if($resposta == "Foz" || $resposta == "FOZ" || $resposta == "foz" || $resposta == "Foz." || $resposta == "foz." || $resposta == "FOZ.") {
+if($resposta == "xxx" || $resposta == "xxx" || $resposta == "xxx" || $resposta == "xxx" || $resposta == "xxx" || $resposta == "xxx") {
 	session_start();
 	$_SESSION['resposta'] = "ok";
 
